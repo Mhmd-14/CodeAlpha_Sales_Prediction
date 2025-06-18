@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config (if you're using VSCode)
+.vscode/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs or temp files
+*.log
+*.tmp
