@@ -66,4 +66,5 @@ The advertising dataset is a small and old dataset compared to real-world advert
 
 ## 👤 Author
 Mohammad Ezzeddine
-github.com/Mhmd-14| in/mohammad-ezzeddine-14ae1
+
+github.com/Mhmd-14 | in/mohammad-ezzeddine-14ae1
